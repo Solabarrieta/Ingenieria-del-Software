@@ -15,10 +15,9 @@ import javax.swing.JTextField;
 import javax.swing.JComboBox;
 import javax.swing.JRadioButton;
 import javax.swing.ButtonGroup;
-<<<<<<< HEAD
+
 import javax.swing.ComboBoxModel;
-=======
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
+
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.DefaultListModel;
 import javax.swing.JButton;
@@ -31,10 +30,7 @@ import javax.swing.JList;
 
 public class OfferBooking extends JFrame {
 
-<<<<<<< HEAD
-=======
-	
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
+
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	private JLabel lblCity;
@@ -43,20 +39,15 @@ public class OfferBooking extends JFrame {
 	private JLabel lblDay;
 	private JLabel lblRoomType;
 	private JLabel searchResult;
-<<<<<<< HEAD
+
 
 	private JTextField city;
 
-=======
-	
-	private JTextField city;
-	
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
+
 	private JTextField day;
 	private JComboBox<String> month;
 	private DefaultComboBoxModel<String> monthNames = new DefaultComboBoxModel<String>();
 	private JTextField year;
-<<<<<<< HEAD
 
 	private JRadioButton tripleRooms;
 	private JRadioButton doubleRooms;
@@ -64,7 +55,7 @@ public class OfferBooking extends JFrame {
 
 	private ButtonGroup fareButtonGroup = new ButtonGroup();
 
-	private JButton lookforOffers;
+	private JButton lookforOffers1;
 	private DefaultListModel<Offer> offerInfo = new DefaultListModel<Offer>();
 	private DefaultComboBoxModel<Offer> offerCInfo = new DefaultComboBoxModel<Offer>();
 
@@ -77,7 +68,6 @@ public class OfferBooking extends JFrame {
 
 	private Offer selectedOffer;
 	private JComboBox<Offer> offerCList;
-=======
 	
 	private JRadioButton tripleRooms;
 	private JRadioButton doubleRooms;
@@ -96,7 +86,7 @@ public class OfferBooking extends JFrame {
 	private Collection<Offer> offerCollection;
 	
 	private Offer selectedOffer;
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
+
 
 	/**
 	 * Launch the application.
@@ -115,7 +105,7 @@ public class OfferBooking extends JFrame {
 			}
 		});
 	}
-<<<<<<< HEAD
+
 
 	// Custom operations
 	public void setBusinessLogic(OfferManager g) {
@@ -131,7 +121,6 @@ public class OfferBooking extends JFrame {
 		return calendar.getTime();
 	}
 
-=======
 	
 	//Custom operations
 	public void setBusinessLogic(OfferManager g) {businessLogic = g;}
@@ -145,7 +134,6 @@ public class OfferBooking extends JFrame {
 	     return calendar.getTime();
 	}
 	
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 	/**
 	 * Create the frame.
 	 */
@@ -157,25 +145,21 @@ public class OfferBooking extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
-<<<<<<< HEAD
 
 		lblCity = new JLabel("City:");
 		lblCity.setBounds(21, 22, 61, 16);
 		contentPane.add(lblCity);
 
-=======
 		
 		lblCity = new JLabel("City:");
 		lblCity.setBounds(21, 22, 61, 16);
 		contentPane.add(lblCity);
 		
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 		city = new JTextField();
 		city.setText("Donostia");
 		city.setBounds(64, 17, 243, 26);
 		contentPane.add(city);
 		city.setColumns(10);
-<<<<<<< HEAD
 
 		lblYear = new JLabel("Year:");
 		lblYear.setBounds(21, 55, 33, 16);
@@ -185,7 +169,6 @@ public class OfferBooking extends JFrame {
 		lblMonth.setBounds(117, 55, 50, 16);
 		contentPane.add(lblMonth);
 
-=======
 		
 		lblYear = new JLabel("Year:");
 		lblYear.setBounds(21, 55, 33, 16);
@@ -195,16 +178,11 @@ public class OfferBooking extends JFrame {
 		lblMonth.setBounds(117, 55, 50, 16);
 		contentPane.add(lblMonth);
 	    
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 		month = new JComboBox<String>();
 		month.setBounds(163, 51, 116, 27);
 		contentPane.add(month);
 		month.setModel(monthNames);
-<<<<<<< HEAD
 
-=======
-		
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 		monthNames.addElement("January");
 		monthNames.addElement("February");
 		monthNames.addElement("March");
@@ -218,31 +196,26 @@ public class OfferBooking extends JFrame {
 		monthNames.addElement("November");
 		monthNames.addElement("December");
 		month.setSelectedIndex(0);
-<<<<<<< HEAD
 
 		lblDay = new JLabel("Day:");
 		lblDay.setBounds(291, 55, 38, 16);
 		contentPane.add(lblDay);
 
-=======
 		
 		lblDay = new JLabel("Day:");
 		lblDay.setBounds(291, 55, 38, 16);
 		contentPane.add(lblDay);
 		
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 		day = new JTextField();
 		day.setText("20");
 		day.setBounds(331, 50, 50, 26);
 		contentPane.add(day);
 		day.setColumns(10);
-<<<<<<< HEAD
 
 		lblRoomType = new JLabel("Room Type:");
 		lblRoomType.setBounds(21, 83, 84, 16);
 		contentPane.add(lblRoomType);
 
-=======
 		
 		lblRoomType = new JLabel("Room Type:");
 		lblRoomType.setBounds(21, 83, 84, 16);
@@ -250,31 +223,23 @@ public class OfferBooking extends JFrame {
 		
 		
 		
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 		tripleRooms = new JRadioButton("Triple");
 		tripleRooms.setSelected(true);
 		fareButtonGroup.add(tripleRooms);
 		tripleRooms.setBounds(99, 79, 68, 23);
 		contentPane.add(tripleRooms);
-<<<<<<< HEAD
 
-=======
 		
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 		doubleRooms = new JRadioButton("Double");
 		fareButtonGroup.add(doubleRooms);
 		doubleRooms.setBounds(173, 79, 77, 23);
 		contentPane.add(doubleRooms);
-<<<<<<< HEAD
 
-=======
 		
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 		singleRooms = new JRadioButton("Single");
 		fareButtonGroup.add(singleRooms);
 		singleRooms.setBounds(265, 79, 77, 23);
 		contentPane.add(singleRooms);
-<<<<<<< HEAD
 
 		lookforOffers = new JButton("Look for Concrete Offers");
 		lookforOffers.addActionListener(new ActionListener() {
@@ -284,17 +249,14 @@ public class OfferBooking extends JFrame {
 //				int day;
 				
 				
-=======
 		
 		lookforOffers = new JButton("Look for Concrete Offers");
 		lookforOffers.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 				bookOffer.setEnabled(true);
 				offerInfo.clear();
 				bookOffer.setText("");
 				
-<<<<<<< HEAD
 				java.util.Date date = newDate(Integer.parseInt(year.getText()), month.getSelectedIndex(),
 						Integer.parseInt(day.getText()));
 				offerCollection = businessLogic.getConcreteOffers(city.getText(), date);
@@ -337,7 +299,6 @@ public class OfferBooking extends JFrame {
 					bookOffer.setText("Error: There were no offers available!");
 				else
 					bookOffer.setText("Booked. #rooms left: " + (num - 1));
-=======
 				java.util.Date date =newDate(Integer.parseInt(year.getText()),month.getSelectedIndex(),Integer.parseInt(day.getText()));
 				 
 				offerCollection=businessLogic.getConcreteOffers(city.getText(),date);
@@ -389,7 +350,6 @@ public class OfferBooking extends JFrame {
 				}
 				if (error) bookOffer.setText("Error: There were no offers available!");
 				else bookOffer.setText("Booked. #rooms left: "+(num-1));
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 				bookOffer.setEnabled(false);
 			}
 		});
@@ -401,7 +361,6 @@ public class OfferBooking extends JFrame {
 		year.setBounds(57, 50, 50, 26);
 		contentPane.add(year);
 		year.setColumns(10);
-<<<<<<< HEAD
 
 		offerCList = new JComboBox<Offer>();
 		offerCList.setBounds(91, 209, 261, 40);
@@ -452,7 +411,5 @@ public class OfferBooking extends JFrame {
 
 		});
 
-=======
->>>>>>> b062408e08b32fc361932502665a8a58946a8d3d
 	}
 }
