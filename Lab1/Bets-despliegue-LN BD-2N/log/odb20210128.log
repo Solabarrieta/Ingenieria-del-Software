@@ -1,0 +1,299 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:33:51 #1 store] 
+Database 'C:\Users\ehu\Desktop\Bets-despliegue-LN+BD-2N\resources\bets.temp' is opened by 11808@U032827
+
+[2021-01-28 11:33:52 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:33:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:33:52 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:33:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:33:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:33:52 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:34:05 #1 store] 
+Database 'C:\Users\ehu\Desktop\Bets-despliegue-LN+BD-2N\resources\bets.temp' is opened by 4836@U032827
+
+[2021-01-28 11:34:05 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:34:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:34:05 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:34:05 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:34:05 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:34:05 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:34:58 #1 store] 
+Database 'C:\Users\ehu\Desktop\Bets-despliegue-LN BD-2N\resources\bets.temp' is opened by 16348@U032827
+
+[2021-01-28 11:34:58 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:34:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:34:58 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:34:58 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:34:58 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:34:58 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:38:01 #1 store] 
+Database 'C:\Users\ehu\Desktop\Bets-despliegue-LN+BD-2N\resources\bets.temp' is opened by 15644@U032827
+
+[2021-01-28 11:38:01 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:38:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:38:01 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:38:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:38:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:38:01 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:38:08 #1 store] 
+Database 'C:\Users\ehu\Desktop\Bets-despliegue-LN BD-2N\resources\bets.temp' is opened by 15844@U032827
+
+[2021-01-28 11:38:08 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:38:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:38:08 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:38:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:38:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:38:08 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:42:56 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN+BD-2N\resources\bets.temp' is opened by 15824@U032827
+
+[2021-01-28 11:42:56 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:42:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:42:56 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:42:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:42:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:42:56 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:43:03 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN BD-2N\resources\bets.temp' is opened by 9516@U032827
+
+[2021-01-28 11:43:03 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:43:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:43:03 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:43:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:43:03 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:43:03 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:45:09 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN+BD-2N\resources\bets.temp' is opened by 12128@U032827
+
+[2021-01-28 11:45:09 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:45:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:45:09 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:45:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:45:09 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:45:09 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:45:15 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN+BD-2N\resources\bets.temp' is opened by 8336@U032827
+
+[2021-01-28 11:45:15 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:45:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:45:15 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:45:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:45:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:45:15 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:46:42 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN BD-2N\resources\bets.temp' is opened by 7664@U032827
+
+[2021-01-28 11:46:42 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:46:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:46:42 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:46:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:46:42 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:46:42 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:48:07 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN BD-2N\resources\bets.temp' is opened by 4388@U032827
+
+[2021-01-28 11:48:07 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:48:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:48:07 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:48:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:48:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:48:07 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:48:47 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN BD-2N\resources\bets.temp' is opened by 10956@U032827
+
+[2021-01-28 11:48:47 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:48:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:48:47 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:48:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:48:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:48:47 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-01-28 11:49:32 #1 store] 
+Database 'C:\Users\ehu\Desktop\Lab 1\Bets-despliegue-LN BD-2N\resources\bets.temp' is opened by 11272@U032827
+
+[2021-01-28 11:49:32 #2 type.registry] 
+New type domain.Question
+
+[2021-01-28 11:49:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2021-01-28 11:49:32 #4 type.registry] 
+New type domain.Event
+
+[2021-01-28 11:49:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2021-01-28 11:49:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-01-28 11:49:32 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
